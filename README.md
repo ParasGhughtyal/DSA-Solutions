@@ -9,25 +9,26 @@ This repository contains my Data Structures and Algorithms solutions organized b
 
 ## Folder Structure
 
-DSA-Solutions/
-├── LeetCode/
-│ ├── Arrays/
-│ ├── Strings/
-│ ├── Hashmaps/
-│ ├── Trees/
-│ ├── Graphs/
-│ ├── LinkedList/
-│ ├── DynamicProgramming/
-│ └── Patterns/
-└── GFG/
-├── Arrays/
-├── Strings/
-├── Hashmaps/
-├── Trees/
-├── Graphs/
-├── LinkedList/
-├── DynamicProgramming/
-└── Patterns/
+- DSA-Solutions/
+  - LeetCode/
+    - Arrays/
+    - Strings/
+    - Hashmaps/
+    - Trees/
+    - Graphs/
+    - LinkedList/
+    - DynamicProgramming/
+    - Patterns/
+  - GFG/
+    - Arrays/
+    - Strings/
+    - Hashmaps/
+    - Trees/
+    - Graphs/
+    - LinkedList/
+    - DynamicProgramming/
+    - Patterns/
+
 
 
 ---
