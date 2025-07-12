@@ -13,8 +13,7 @@ public:
         for(int i = 1; i <= nums.size(); i++)
         {
             if(!seen[i]) 
-            result.push_back(i);
-            
+            result.push_back(i);     
         }
 
         return result;
